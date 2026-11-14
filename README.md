@@ -6,7 +6,8 @@
 **Author:** João Victor Fernandes Caldas
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)
 **How to cite:** see [`CITATION.cff`](CITATION.cff)
-https://doi.org/10.5281/zenodo.24231155
+
+DOI 10.5281/zenodo.24231154
 ---
 
 ## What PICAM is
