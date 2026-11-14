@@ -1,0 +1,2 @@
+Identifier,Type,System or platform,Privilege level,Owner,Use,Current storage,Authentication,Last rotation,Criticality,Migration action,Status
+PRV-0042,Service,ERP - database server,Database administrator,IT manager,Nightly integration with tax system,Embedded in scheduled script,Static password,Unknown,High,Replace with workload identity,Pending

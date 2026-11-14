@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use or adapt PICAM, please cite it as below."
+title: "PICAM — Privileged Access Management Integrated Cloud Adoption Methodology"
+version: "0.1"
+date-released: 2026-11-14
+license: CC-BY-4.0
+type: dataset
+authors:
+  - family-names: "Caldas"
+    given-names: "João Victor Fernandes"
+abstract: >-
+  PICAM is a documented, vendor-agnostic, phase-structured methodology to help
+  medium-sized companies migrate data and systems to the cloud securely, with
+  Privileged Access Management as the integrating axis from the first phase.
+  Version 0.1 is a public draft under doctoral validation.
+keywords:
+  - cloud computing
+  - privileged access management
+  - cloud adoption methodology
+  - medium-sized enterprises
+  - design science research
