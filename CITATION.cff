@@ -12,7 +12,7 @@ abstract: >-
   PICAM is a documented, vendor-agnostic, phase-structured methodology to help
   medium-sized companies migrate data and systems to the cloud securely, with
   Privileged Access Management as the integrating axis from the first phase.
-  Version 0.1 is a public draft under doctoral validation.
+  Version 0.1 is a public draft proposed doctoral research.
 keywords:
   - cloud computing
   - privileged access management
