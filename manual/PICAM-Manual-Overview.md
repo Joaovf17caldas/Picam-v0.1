@@ -1,6 +1,6 @@
 # PICAM Manual — Overview of Phases and PAM Layer
 
-**Version:** 0.1 — public draft, under doctoral validation
+**Version:** 0.1 — public draft, proposed doctoral research
 **Author:** João Victor Fernandes Caldas
 **License:** CC BY 4.0
 
