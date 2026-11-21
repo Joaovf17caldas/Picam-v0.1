@@ -1,9 +1,9 @@
 # Changelog
 
 All notable changes to PICAM are documented in this file.
-Versioning follows the pattern `MAJOR.MINOR`. Versions below 1.0 are public drafts under doctoral validation.
+Versioning follows the pattern `MAJOR.MINOR`. Versions below 1.0 are public drafts proposed doctoral research.
 
-## [v0.1] — 2026-11 — Public draft, under doctoral validation
+## [v0.1] — 2026-11 — Public draft, proposed doctoral research
 
 ### Added
 - `README.md`: definition of PICAM, the eight principles, the seven phases (F0–F6) and gates (G0–G6), the three-layer architecture, license and status.
