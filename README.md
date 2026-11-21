@@ -1,7 +1,7 @@
 # PICAM — Privileged Access Management Integrated Cloud Adoption Methodology
 
-> **Status: v0.1 — public draft, under doctoral validation.**
-> This is an early working draft. PICAM has **not** yet been validated. Its content validation (Delphi expert panel) and field evaluation (multiple-case study) are the object of ongoing doctoral research. Content will change between versions.
+> **Status: v0.1 — public draft, proposed doctoral research.**
+> This is an early working draft. PICAM has **not** yet been validated. Its content validation (Delphi expert panel) and field evaluation (multiple-case study) are the object of proposed doctoral research. Content will change between versions.
 
 **Author:** João Victor Fernandes Caldas
 **License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE)
